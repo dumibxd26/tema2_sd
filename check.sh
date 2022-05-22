@@ -1,5 +1,6 @@
 #!/bin/bash
 # Checher tema 2 SD 2022
+#
 NO_TESTS=20
 EXEC=main
 TEST_POINTS=(0 
